@@ -270,7 +270,7 @@
 }
 
 .footer {
-  padding-top: 60px;
+  padding-top: 90px;
   background-color: black;
   min-height: 350px;
   display: flex;
@@ -332,6 +332,7 @@
 .footer__column-link img {
   width: 16px;
   height: 16px;
+  padding-right: 15px;
 }
 
 .foter__social-icon {
