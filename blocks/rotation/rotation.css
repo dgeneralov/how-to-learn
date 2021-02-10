@@ -1,0 +1,12 @@
+.rotation {
+  animation: rot 20s linear infinite;
+}
+
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
